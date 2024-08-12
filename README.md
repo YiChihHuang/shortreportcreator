@@ -4,6 +4,8 @@
 
 本專案受到了[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)專案的啟發，特此致謝。
 
+Colab:(https://colab.research.google.com/drive/15YJIVi_7i18X25GlkEvxqOU1EEBM_au1?usp=sharing)
+
 ## 功能特點
 
 - **自動搜尋**：使用Tavily API在指定來源或所有可用來源中搜尋相關信息。
