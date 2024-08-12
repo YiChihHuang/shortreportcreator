@@ -4,7 +4,7 @@
 
 本專案受到了[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)專案的啟發，特此致謝。
 
-Colab:(https://colab.research.google.com/drive/15YJIVi_7i18X25GlkEvxqOU1EEBM_au1?usp=sharing)
+Colab:[shortreportcreater 0812](https://colab.research.google.com/drive/15YJIVi_7i18X25GlkEvxqOU1EEBM_au1?usp=sharing)
 
 ## 功能特點
 
